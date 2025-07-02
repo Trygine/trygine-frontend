@@ -1,1 +1,0 @@
-# trygine-frontend
